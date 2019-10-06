@@ -1,0 +1,50 @@
+.navbar{
+    padding: .8rem !important;
+    background: #6fda44 !important;
+}
+.navbar a {
+    color: #fff !important;
+}
+.navbar a:not(:last-child) {
+    font-size: 2rem;
+    font-weight: 700;
+}
+input {
+    border-radius: .5rem !important;
+}
+.btn-custom{
+    background: #fff;
+    border-radius: 2rem;
+    color: #6fda44;
+    padding: .375rem 2rem !important;
+}
+.btn-nav{
+    margin-right: 6rem;
+}
+.row{
+    margin-bottom: 1rem;
+}
+.col-lg-4{
+    text-align: center;
+}
+.messages{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+}
+.msg-txt{
+    padding-top: 1rem;
+}
+p{
+    margin: 0;
+}
+.profile-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.msg-txt{
+    width: 100%;
+}
